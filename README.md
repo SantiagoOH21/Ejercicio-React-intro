@@ -1,12 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introducción
 
-Currently, two official plugins are available:
+React es una librería de JavaScript que facilita la creación de interfaces de usuario interactivas. Es una biblioteca de código abierto construida por Facebook y es una de las bibliotecas más utilizadas para crear aplicaciones web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ¿Cuáles son los principales objetivos de este proyecto?
 
-## Expanding the ESLint configuration
+- Comprender cómo desarrollar una aplicación con React
+- Mejora tus habilidades de desarrollo web
+- Mejore sus habilidades de desarrollo de JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# EJERCICIOS
+
+## Ejercicio 1
+
+- Crear un componente Person que acepte props name, surname y age, y nos muestre dichos datos dentro de etiquetas span.
+- Utilizar al menos el mismo componente 3 veces con props que tengan valores diferentes.
+- Crea el componente Person con functional component y con class component
+
+## Ejercicio 2
+
+- Crea tu página personal con React (utilizando componentes funcionales).
+  - Debe contener al menos un componente “Home” & “Header”, que hable sobre ti, quien eres, tecnologías que manejas…
